@@ -1,7 +1,8 @@
 CMakeTouch
 ==========
 
-A Visual Studio 2013 extension to touch files in projects, especially CMakeLists.txt.
+A Visual Studio 2013 extension to *touch* files in projects, especially CMakeLists.txt.
+Touching in this context means updating the last-modification time of files.
 
 It will add an entry named "Touch" to the solution explorer context menu for files, and a "Touch CMakeLists.txt" entry
 to the context menu of projects and project folders. The latter searches for files named "CMakeLists.txt" in the respective
