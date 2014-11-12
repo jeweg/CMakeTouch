@@ -11,7 +11,10 @@ project or folder and touches them.
 Installation
 ------------
 
-Run *CMakeTouch.vsix* or build it from source and run.
+1. Optional: Build the solution.
+2. Run **CMakeTouch.vsix** and restart Visual Studio 2013.
+
+Uninstall as usual from within Visual Studio: Tools -> Extensions and Updates...
 
 License
 -------
