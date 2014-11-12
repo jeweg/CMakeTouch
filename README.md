@@ -11,7 +11,7 @@ project or folder and touches them.
 Installation
 ------------
 
-Run CMakeTouch.vsix or build it yourself.
+Run *CMakeTouch.vsix* or build it from source and run.
 
 License
 -------
